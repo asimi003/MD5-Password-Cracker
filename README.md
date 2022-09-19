@@ -1,6 +1,6 @@
 # MD5-Password-Cracker
 
-Computer Security
+Computer Security Project
 
 ## Description
 
